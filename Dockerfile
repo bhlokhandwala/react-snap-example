@@ -1,1 +1,2 @@
-WORKDIR /burhan
+WORKDIR /burhan/dev testing
+
