@@ -11,7 +11,11 @@
 
 /.vscode
 # misc
+<<<<<<< HEAD
+.DS_Store
+=======
 .DS_Stor
+>>>>>>> develop
 .env.development.local
 .env.test.local
 .env.production.local
